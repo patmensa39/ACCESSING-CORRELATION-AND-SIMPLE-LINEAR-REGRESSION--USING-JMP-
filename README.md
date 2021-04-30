@@ -76,3 +76,4 @@ Multivariate(
 	Estimation Method( "Row-wise" ),
 	Scatterplot Matrix( Density Ellipses( 1 ), Fit Line )
 )
+
